@@ -2,7 +2,9 @@
 
 Code for Software Security Class in Zhejiang University.
 
-The code is written for educational purpose only, and works (as it is) on x86_64 architecture. 
+Instructor: Yajin Zhou ([https://yajin.org](https://yajin.org))
+
+The code is written for educational purpose only, and works (as it is) on x86_64 architecture (except for specified in the script).
 
 You need to install `pwntools` to use most of the scripts.  
 
