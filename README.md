@@ -10,13 +10,16 @@ You need to install `pwntools` to use most of the scripts.
 pip install pwntools
 ```
 
-Credit: Some of the code was developed by Duoming Zhou.
+If you find any bugs or have any suggestions, please contact me (yajin_zhou@zju.edu.cn).
 
+Credit: Some of the code was developed by Duoming Zhou.
 
 ## 01_bof
 
 ### 01_ret2shellcode
 
 Return to shellcode.
+
+Slides: https://gamma.app/docs/Buffer-Overflow-119br1p2pehzt1s
 
 
