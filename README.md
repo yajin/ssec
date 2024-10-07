@@ -22,7 +22,7 @@ Credit: Some of the code was developed by Duoming Zhou.
 
 Return to shellcode.
 
-Slides: https://gamma.app/docs/Buffer-Overflow-119br1p2pehzt1s
+* [Slides](https://gamma.app/docs/Buffer-Overflow-119br1p2pehzt1s) 
 
 
 ## 02_ret2libc
