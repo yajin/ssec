@@ -34,3 +34,6 @@ Slides:
 * [Ret2libc with ASLR (x86-32)](https://gamma.app/docs/02-ret2libc-with-aslr-32-tkohpbg0ux0vv9w)
 * [Ret2libc (x86-64)](https://gamma.app/docs/02-ret2libc-64-6i0ljpiwbqz09l5)
 
+## 02_format_string
+Slides:
+* [Format String Vulnerability](https://gamma.app/docs/03-format-string-lajszdjnzlm6129)
