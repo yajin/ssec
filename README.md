@@ -37,3 +37,7 @@ Slides:
 ## 02_format_string
 Slides:
 * [Format String Vulnerability](https://gamma.app/docs/03-format-string-lajszdjnzlm6129)
+
+## 03_heap
+Slides:
+* [Heap Vulnerabilities and Attacks](https://gamma.app/docs/04-Heap-v6wdbs1routnx3j)
